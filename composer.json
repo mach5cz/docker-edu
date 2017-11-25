@@ -1,0 +1,6 @@
+{
+    "name": "posobota/hello-world",
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
